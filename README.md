@@ -38,9 +38,9 @@ In the food industry, accurately predicting product demand is crucial for mainta
 Submissions are evaluated based on the Root Mean Squared Error (RMSE) between the predicted sold quantities and the actual sold quantities.
 
 ## 👥 Team Members
-- Member 1: [Akhila Prabodha]
-- Member 2: [Navini Jagoda]
-- Member 3: [Janindu Shehan]
+- Member 1: [Akhila Prabodha](https://github.com/akhilaprabodha)
+- Member 2: [Navini Jagoda](https://github.com/Navini11)
+- Member 3: [Janindu Shehan]()
 
 ## 🚀 Getting Started
 
